@@ -1,0 +1,13 @@
+C:\Users\Martin Caldera\source\repos\calddera\APISithec\APISithec\Core.Sithec\bin\Debug\netcoreapp3.1\Core.Sithec.deps.json
+C:\Users\Martin Caldera\source\repos\calddera\APISithec\APISithec\Core.Sithec\bin\Debug\netcoreapp3.1\Core.Sithec.dll
+C:\Users\Martin Caldera\source\repos\calddera\APISithec\APISithec\Core.Sithec\bin\Debug\netcoreapp3.1\Core.Sithec.pdb
+C:\Users\Martin Caldera\source\repos\calddera\APISithec\APISithec\Core.Sithec\bin\Debug\netcoreapp3.1\Data.Sithec.dll
+C:\Users\Martin Caldera\source\repos\calddera\APISithec\APISithec\Core.Sithec\bin\Debug\netcoreapp3.1\Data.Sithec.pdb
+C:\Users\Martin Caldera\source\repos\calddera\APISithec\APISithec\Core.Sithec\obj\Debug\netcoreapp3.1\Core.Sithec.csproj.AssemblyReference.cache
+C:\Users\Martin Caldera\source\repos\calddera\APISithec\APISithec\Core.Sithec\obj\Debug\netcoreapp3.1\Core.Sithec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Caldera\source\repos\calddera\APISithec\APISithec\Core.Sithec\obj\Debug\netcoreapp3.1\Core.Sithec.AssemblyInfoInputs.cache
+C:\Users\Martin Caldera\source\repos\calddera\APISithec\APISithec\Core.Sithec\obj\Debug\netcoreapp3.1\Core.Sithec.AssemblyInfo.cs
+C:\Users\Martin Caldera\source\repos\calddera\APISithec\APISithec\Core.Sithec\obj\Debug\netcoreapp3.1\Core.Sithec.csproj.CoreCompileInputs.cache
+C:\Users\Martin Caldera\source\repos\calddera\APISithec\APISithec\Core.Sithec\obj\Debug\netcoreapp3.1\Core.Sithec.csproj.CopyComplete
+C:\Users\Martin Caldera\source\repos\calddera\APISithec\APISithec\Core.Sithec\obj\Debug\netcoreapp3.1\Core.Sithec.dll
+C:\Users\Martin Caldera\source\repos\calddera\APISithec\APISithec\Core.Sithec\obj\Debug\netcoreapp3.1\Core.Sithec.pdb
